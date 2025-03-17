@@ -56,8 +56,6 @@ Galactus is designed to push the boundaries of visual and textual reasoning. It 
 
 ---
 
-... (rest of the document remains unchanged)
-
 ## Intended Uses & Limitations
 
 - **Intended Uses:**  
