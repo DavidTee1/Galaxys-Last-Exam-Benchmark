@@ -1,0 +1,7 @@
+,correct,total,accuracy
+o1,9.0,50.0,0.18
+gpt-4o,8.0,50.0,0.16
+gpt-4o-mini,5.0,50.0,0.1
+gemini-1.5-flash,11.0,50.0,0.22
+gemini-1.5-pro,13.0,50.0,0.26
+claude-3-7-sonnet-20250219,12.0,50.0,0.24
