@@ -1,6 +1,6 @@
 # Galaxy's Last Exam Benchmark
 
-![Main Image](https://raw.githubusercontent.com/declare-lab/LLM-PuzzleTest/master/figures/Main_Image.png)
+![Main Image](https://raw.githubusercontent.com/DavidTee1/Galaxys-Last-Exam-Benchmark/Figures/Main_Image.png)
 
 The **Galaxy's Last Exam Benchmark** is a challenging multimodal evaluation suite designed to push the boundaries of visual reasoning and metaphysical competence in AI models. It consists of a diverse set of tasks that require advanced perception, pattern recognition, and problem-solving skills beyond conventional datasets.
 
@@ -36,7 +36,7 @@ The benchmark includes several challenging tasks designed to evaluate a model's 
 - **Data Source:**  
   The benchmark consists entirely of **synthetically generated** data, ensuring a controlled evaluation environment. Scripts will be provided later to generate each dataset for reproducibility.
 
-![Performance Comparison](https://raw.githubusercontent.com/declare-lab/LLM-PuzzleTest/master/figures/Performance_Comparison.png)
+![Performance Comparison](https://raw.githubusercontent.com/DavidTee1/Galaxys-Last-Exam-Benchmark/Figures/Performance_Comparison.png)
 
 - **Prompt Format:**  
   The expected input format for prompts is:
