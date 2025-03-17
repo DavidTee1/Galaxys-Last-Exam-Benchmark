@@ -1,1 +1,1 @@
-# Galaxy-s-Last-Exam-Benchmark
+# Galaxy's-Last-Exam-Benchmark
