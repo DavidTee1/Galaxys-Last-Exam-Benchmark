@@ -1,0 +1,5 @@
+{
+  "openai": "key-here",
+  "gemini": "key-here",
+  "anthropic": "key-here"
+}
