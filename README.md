@@ -24,7 +24,7 @@ The benchmark includes several challenging tasks designed to evaluate a model's 
    In this task, the model counts the number of individual cubes that comprise a larger three-dimensional structure.
    
 4. **Wooden Slide Puzzle Moves Calculation:**  
-   The model is challenged to determine how many moves it would take to reach a specific configuration in a wooden slide puzzle. This task assesses sequential planning and problem-solving skills. This task was inspired by [AlgoPuzzleVQA](https://github.com/declare-lab/LLM-PuzzleTest/tree/master/AlgoPuzzleVQA).
+   The model is challenged to determine how many moves it would take to reach a specific configuration in a wooden slide puzzle. This task was inspired by [AlgoPuzzleVQA](https://github.com/declare-lab/LLM-PuzzleTest/tree/master/AlgoPuzzleVQA).
 
 5. **Analog Clock Time Change Simulation:**  
    The model calculates the new positions of the clock hands on an analog clock after a given time change, demonstrating its ability to understand time-based transformations and spatial arrangements. This task was inspired by [AlgoPuzzleVQA](https://github.com/declare-lab/LLM-PuzzleTest/tree/master/AlgoPuzzleVQA).
@@ -52,7 +52,7 @@ Galactus is a state-of-the-art, multimodal language model fine-tuned from [micro
 
 ## Model Description
 
-Galactus is designed to push the boundaries of visual and textual reasoning. It accepts image input along with text prompts to solve tasks that include, for example, calculating intersections of lines or simulating time changes on analog clocks. On the Galaxy's Last Exam Benchmark, this model outperforms comparable models from OpenAI and Gemini.
+Galactus is designed to push the boundaries of visual and textual reasoning. It accepts image input along with text prompts to solve tasks that include, for example, calculating intersections of lines or simulating time changes on analog clocks. On the Galaxy's Last Exam Benchmark, this model outperforms comparable models from OpenAI, Google, and Anthropic.
 
 ---
 
@@ -64,7 +64,6 @@ Galactus is designed to push the boundaries of visual and textual reasoning. It 
 
 - **Limitations:**  
   - **Not** meant for standard everyday tasks or simple human interactions.  
-  - Exclusively trained on the Galaxy's Last Exam Benchmark, so its generalization outside of this domain may be limited.
 
 ---
 
