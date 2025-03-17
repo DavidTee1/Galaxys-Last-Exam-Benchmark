@@ -15,14 +15,14 @@ Galaxy's Last Exam Benchmark tests AI models on complex multimodal reasoning tas
 The benchmark includes several challenging tasks designed to evaluate a model's advanced reasoning capabilities:
 
 1. **Line Intersection Counting:**  
-   The model is provided with a chart featuring three distinct colors and is tasked with counting the number of times two lines intersect. This tests its ability to parse complex visual layouts and perform spatial reasoning.
+   The model is provided with a chart featuring three distinct colors and is tasked with counting the number of times two lines intersect. 
 
 2. **Letter Frequency Counting:**  
-   The model must count the number of times a specific letter appears within an image. This evaluates its detailed pattern recognition and text analysis capabilities in a visual context.
+   The model must count the number of times a specific letter appears within an image.
 
 3. **Cube Counting in 3D Structures:**  
-   In this task, the model counts the number of individual cubes that comprise a larger three-dimensional structure, challenging its understanding of depth, perspective, and spatial segmentation.
-
+   In this task, the model counts the number of individual cubes that comprise a larger three-dimensional structure.
+   
 4. **Wooden Slide Puzzle Moves Calculation:**  
    The model is challenged to determine how many moves it would take to reach a specific configuration in a wooden slide puzzle. This task assesses sequential planning and problem-solving skills. This task was inspired by [AlgoPuzzleVQA](https://github.com/declare-lab/LLM-PuzzleTest/tree/master/AlgoPuzzleVQA).
 
